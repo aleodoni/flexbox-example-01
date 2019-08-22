@@ -16,6 +16,10 @@ button {
   outline: 0;
 }
 
+button {
+  cursor: pointer;
+}
+
 .content {
   max-width: 1170px;
   margin: 0 auto;
